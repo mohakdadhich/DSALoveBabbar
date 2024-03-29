@@ -1,0 +1,20 @@
+Write a function to print sum of 3 numbers  
+Write a function to return sum of 3 numbers     --> sum3no.cpp
+Find maximum of three numbers                   --> max3no.cpp
+Counting from 1 to n                            --> count.cpp
+Check prime or not prime number                 --> prime.cpp
+Check number is even or odd                     --> evenodd.cpp
+Sum of all numbers upto 1 to N                  --> sum2n.cpp
+Sum of all even numbers upto 1 to n             --> sumeven2n.cpp
+
+
+Function to find area of circle                 --> area.cpp
+Function to find factorial of a number          --> factorial.cpp
+Print all prime numbers from 1 to N             --> prime_1_to_n.cpp
+**Print all digits of an integer                --> 
+**Creating a number using digits                -->
+**Print binary representation of a decimal number -->
+Convert KM into Miles                           --> otherQues.cpp
+Convert Farenheit to Celcius                    -->
+Count all set bits of a number                  -->
+Check even/odd using bitwise operator           -->

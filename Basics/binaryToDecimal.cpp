@@ -10,6 +10,8 @@ int binarytoDecimal1(int n){
     }
     return decimal;
 }
+
+
 int main(){
     int binary;
     cout<<"binary to decimal\n";
