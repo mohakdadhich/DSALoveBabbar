@@ -1,0 +1,7 @@
+1-> -ve to left, +ve to right
+2-> sort color (leetcode) q. 75
+3-> rotate array by k steps leetcode 189 
+4-> find missing no     leetcode 268
+5-> rearrange array elements by sign leetcode 2149
+6-> Row with max 1  leetcode 2643
+7-> 

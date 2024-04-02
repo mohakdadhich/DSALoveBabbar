@@ -1,0 +1,2 @@
+1-> find duplicate element
+2-> missing element from array with duplicate
